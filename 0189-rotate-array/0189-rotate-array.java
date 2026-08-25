@@ -3,16 +3,27 @@ class Solution {
         int n = nums.length;
         k %= n;
 
-        reverse(nums, 0, n - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, n - 1);
-    }
-
-    private void reverse(int[] a, int l, int r) {
+        int l = 0, r = n - 1;
         while (l < r) {
-            int temp = a[l];
-            a[l++] = a[r];
-            a[r--] = temp;
+            int t = nums[l];
+            nums[l++] = nums[r];
+            nums[r--] = t;
+        }
+
+        l = 0;
+        r = k - 1;
+        while (l < r) {
+            int t = nums[l];
+            nums[l++] = nums[r];
+            nums[r--] = t;
+        }
+
+        l = k;
+        r = n - 1;
+        while (l < r) {
+            int t = nums[l];
+            nums[l++] = nums[r];
+            nums[r--] = t;
         }
     }
 }
