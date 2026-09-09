@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dimple-k1626/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
